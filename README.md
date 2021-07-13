@@ -4,7 +4,7 @@
 🌱 I'm learning: CSS, vanilla JS and React.
 
 
-https://frontend-mentor-challenges-completed.netlify.app/
+https://completed-frontend-challenges.netlify.app/
 
 
 
