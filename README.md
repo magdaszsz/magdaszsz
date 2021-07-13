@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Magda 👋
 
 🔭 I’m currently working on my personal portofolio and Frontend Mentor challenges.<br>
-🌱 I'm learning to master CSS, vanilla JS and learning React.<br>
+🌱 I'm learning: CSS, vanilla JS and React.
 
 
 https://frontend-mentor-challenges-completed.netlify.app/
