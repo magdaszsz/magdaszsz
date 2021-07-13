@@ -2,7 +2,9 @@
 
 🔭 I’m currently working on my personal portofolio and Frontend Mentor challenges.<br>
 🌱 I'm learning to master CSS, vanilla JS and learning React.<br>
-https://relaxed-torvalds-91dd7b.netlify.app/
+
+
+https://frontend-mentor-challenges-completed.netlify.app/
 
 
 
